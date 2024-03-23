@@ -1,4 +1,4 @@
-let vDolarVenta = 1015; //La casa de cambio vende a este precio
+/* let vDolarVenta = 1015; //La casa de cambio vende a este precio
 let vDolarCompra = 995; //La casa de cambio compra a este precio
 let pesos;
 let operacion;
@@ -29,4 +29,5 @@ do {
         alert("El resultado es: " + res);
     }
 } while (operacion != "0");
+*/
 

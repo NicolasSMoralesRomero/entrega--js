@@ -1,0 +1,45 @@
+/* Logo */
+.logo{
+    width: 10%;
+    height: 10%;
+}
+
+/* Hero */
+
+.heroImg{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/hero.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:auto;
+    position: relative;
+}
+
+.heroText{
+    text-align: center;
+    color: white;
+    padding: 2%;
+}
+
+.heroTitle{
+    text-align: center;
+}
+
+/* Conversor divisas */
+
+h2{
+    text-align: center;
+    padding: 15px;
+}
+
+.calcu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.btnCalcu{
+    display: flex;
+    gap: 10px;
+    padding: 9px;
+}
