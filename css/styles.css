@@ -43,3 +43,26 @@ h2{
     gap: 10px;
     padding: 9px;
 }
+
+/* FOOTER */
+footer {
+    display: flex;
+    background-color: lightgray;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px 10px 0 0;
+    padding: 20px 50px 10px 15px; }
+  
+  .derechos p {
+    color: #000000; }
+  
+  .redes {
+    display: flex;
+    gap: 50px; }
+  
+  .iconosRedes {
+    transition: all 0.3s linear;
+    height: 30px;
+    width: 30px; }
+    .iconosRedes:hover {
+      transform: scale(130%); }
