@@ -30,4 +30,12 @@ do {
     }
 } while (operacion != "0");
 
+let carrito = [];
+
+class Producto {
+    constructor(pNombre, pPrecio) {
+        this.nombre = pNombre;
+        this.precio = pPrecio;
+    }
+     }
 
